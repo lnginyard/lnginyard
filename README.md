@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **lnginyard/lnginyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnginyard&count_private=true)](https://github.com/lnginyard/github-readme-stats)
@@ -15,4 +15,4 @@ Here are some key info about me:
 - 📫 How to reach me: 📧lnginyard@gmail.com 💼https://wwwlinkedin.com/lorenzo-ginyard 🐥@4evarocboizoe
 - 😄 Pronouns: HE/HIM/SIR🌈
 - ⚡ Fun fact: I love to draw/paint👨🏾‍🎨, is musically inclined - sing🎙 & played  the saxphone🎵 & the flute🎶 & a lifelong learner📚
--->
+
