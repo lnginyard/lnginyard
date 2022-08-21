@@ -1,4 +1,4 @@
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnginyard&count_private=true&show_icons=true&theme=highcontrast&include_all_commits)](https://github.com/lnginyard/github-readme-stats)
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnginyard&count_private=true&show_icons=true&theme=monokai&include_all_commits)](https://github.com/lnginyard/github-readme-stats)
 
 ### Hello there❗️ 👋
 
@@ -13,6 +13,6 @@
 - 😄 Pronouns: HE/HIM/SIR🌈
 - ⚡ Fun fact: I love to draw/paint👨🏾‍🎨, is musically inclined - sing🎙 & played  the saxphone🎵 & the flute🎶 & a lifelong learner📚
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnginyard&layout=compact)](https://github.com/lnginyard/github-readme-stats&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnginyard&layout=compact)](https://github.com/lnginyard/github-readme-stats&theme=monokai)
 
 
