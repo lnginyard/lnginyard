@@ -8,9 +8,8 @@
 
 *******
 
-
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnginyard&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/lnginyard/github-readme-stats)
-
+## My Github Stats⤵️🔻
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=chartreuse-dark&Text=03FF00&Border=0A26FF&Ring=FF000B&Title=FF0F2A&Background=2F183373)](https://git.io/awesome-stats-card)
 *******
 
 ## ✨Below⤵️ you will find🔎 some key🔑 info about me:✨
