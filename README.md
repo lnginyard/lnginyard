@@ -9,8 +9,7 @@
 *******
 
 ## 👨🏾‍💻🤓🚨Checkout My Github Stats⤵️🦾🔻
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=chartreuse-dark&Text=03FF00&Border=0A26FF&Ring=FF000B&Title=FF0F2A&Background=2F183373)](https://git.io/awesome-stats-card)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=dark&Background=000000&Text=13DD02&Border=2800FF&Ring=FF300A&Title=FF0D18)](https://git.io/awesome-stats-card)
 *******
 
 ## ✨Below ⏬⤵️ you will find🕵🏾‍♂️🔎 key🔑 info & facts📑 about me:🙋🏾‍♂️✨
