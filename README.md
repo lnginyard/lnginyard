@@ -1,33 +1,37 @@
-# 👋🙋🏾‍♂️Hello World❗🌐🌎 
+# 👋🙋🏾‍♂️Hello World🌐🌎❗❗
                                                                 
 
 
-### My name is Lorenzo... 
+### The name is Lorenzo...But people call me Zo!
 
-#### I'm an ~~Accountant~~ / ~~Artist~~ / ~~Cloud Architect~~ / ~~DevOps Engineer~~...lol Ummm...let's just say that I'm all of those things and more! But Simply put; I'm a  multi-fauceted, skilled &, talented professional with an extensive background in finance & accounting who has recently broke into technology as a Software Developer; with skills ranging from computer programming, application development, cloud computing, system administrator and even operating mainframe systems such as IBMz👨🏾‍💻. I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸
+#### I'm an ~~Accountant~~ / ~~Artist~~ / ~~Cloud Architect~~ / ~~DevOps Engineer~~...lol Ummm...let's just say that I'm all of those things and more! But Simply put; I'm a  multi-fauceted, skilled &, talented professional with an extensive background in finance & accounting who has recently broke into technology as a Software Developer; with skills ranging from computer programming, application development, cloud computing, system administrator and even operating mainframe systems such as IBMz👨🏾‍💻. I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗
 
 *******
 
-## My Github Stats⤵️🔻
+## 👨🏾‍💻🤓🚨Checkout My Github Stats⤵️🦾🔻
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=chartreuse-dark&Text=03FF00&Border=0A26FF&Ring=FF000B&Title=FF0F2A&Background=2F183373)](https://git.io/awesome-stats-card)
+
 *******
 
-## ✨Below⤵️ you will find🔎 some key🔑 info about me:✨
+## ✨Below ⏬⤵️ you will find🕵🏾‍♂️🔎 key🔑 info & facts📑 about me:🙋🏾‍♂️✨
 
-- 🔭 I’m currently working on my professional portfolio📇👨🏾‍💻
+- 👨🏾‍💻 I’m currently working on my professional portfolio📇👨🏾‍💻
 - 💡 I’m currently learning IBMz/OS Zowe Mainframe System, Studying for the MS Azure Cloud Fundamentals Exam & learning the Java programming language 👾🤖🎛
-- 👯 I’m looking to collaborate more on opensource projects with developers🙋🏾‍♂️👨🏾‍💻
+- 🚧 I’m looking to collaborate more on opensource projects with developers🙋🏾‍♂️👨🏾‍💻
 - 👀 I’m looking to get employed with a great company who's looking for a focused, hungry & intelligent young professional such as myself🙋🏾‍♂️❗️❕ 
-- 💬 Ask me about the struggle in switching careers & landing your dream job😖😓🥱
-- 📫 How to reach me: 📧lnginyard@gmail.com 💼https://wwwlinkedin.com/lorenzo-ginyard 🐥https://twitter.com/@4evarocboizoe
+- 💬 Ask me about my struggle in merging my financial career with my tech career 💸✚💻 😖😓🥱
+- 📫 How to reach me📇: 📧lnginyard@gmail.com 💼https://wwwlinkedin.com/lorenzo-ginyard 🐥https://twitter.com/@4evarocboizoe
 - 🙋🏾‍♂️ Pronouns: HE/HIM/SIR🌈
-- 🚨 Fun fact: I love to draw/paint and design clothes for fun👨🏾‍🎨, I'm musically inclined and love to sing & listen to music🎙. I have a love for Woodwind instruments and have once played the saxphone🎷🎵 Flute🎶 & Clarnet and most of all; I'm a lifelong learner who love to learn new things everyday and pass the knowledge on to those who are interested📚
+- 🚨 Fun fact: I love to draw/paint🎨 & design clothes for fun👨🏾‍🎨👖🥼, I'm musically inclined🎶🎼🎵 and love to 🎙sing🎤 & listen to music🎧👂🎶 I have a love for woodwind instruments❤️‍🔥 and have played 3️⃣ of the 6️⃣, which are the Flute🎶 the Clarnet & the Saxphone🎷🎵. 
+
+#### I'm also a lifelong learner that loves to learn new things daily (whether big or small) and pass the knowledge on to those who inquires within or expresses interest📚 #EachOneTeachOne❗️
 
 <break>
 
 __________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnginyard&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/lnginyard/github-readme-stats)
+
 ***************
 
 ### Languages
@@ -65,7 +69,7 @@ __________
 
 ### Libraries 
 
-<div sstyle="dispay: inline_block">
+<div style="dispay: center">
 <img align="center" alt="django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
 <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
