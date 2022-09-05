@@ -2,9 +2,9 @@
                                                                 
 
 
-### The name is Lorenzo...But people call me Zo!
+### The name is Lorenzo...Or you may call me Zo!
 
-#### I'm an ~~Accountant~~ / ~~Artist~~ / ~~Cloud Architect~~ / ~~DevOps Engineer~~...lol Ummm...let's just say that I'm all of those things and more! But Simply put; I'm a  multi-fauceted, skilled &, talented professional with an extensive background in finance & accounting who has recently broke into technology as a Software Developer; with skills ranging from computer programming, application development, cloud computing, system administrator and even operating mainframe systems such as IBMz👨🏾‍💻. I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗
+#### I'm a Accounting Specialist who've recently broken into tech after studying at SNHU, under there Software Engineering immersive. I code with programming languages JAvaScript, Python, HTML5, & CSS. I'm able to use libraries & frameworks such as React Native, Django Materialize and wwork with databasis like MySQL and PostgreSQL. I'm also able to design architectural systems that will house mainframe and cloud computing systems such as AWS, IBMz/Os and Zowe VS Code extension where I submit jobs containing a huge amounts of data using one of the first programming languaages COBOLUmmm...let's just say that I'm all of those things and more! But Simply put; I'm a  multi-fauceted, skilled &, talented professional with an extensive background in finance & accounting who has recently broke into technology as a Software Developer; with skills ranging from computer programming, application development, cloud computing, system administrator and even operating mainframe systems such as IBMz👨🏾‍💻. I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗
 
 *******
 
