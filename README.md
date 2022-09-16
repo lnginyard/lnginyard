@@ -12,6 +12,9 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=dark&Background=000000&Text=13DD02&Border=2800FF&Ring=FF300A&Title=FF0D18)](https://git.io/awesome-stats-card)
 *******
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ✨Below ⏬⤵️ you will find🕵🏾‍♂️🔎 key🔑 info & facts📑 about me:🙋🏾‍♂️✨
 
 - 👨🏾‍💻 I’m currently working on my professional portfolio📇👨🏾‍💻
