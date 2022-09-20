@@ -1,6 +1,5 @@
 # 👋🙋🏾‍♂️Hello World🌐🌎❗❗
-                                                                
-
+                                                               
 
 ### The name is Lorenzo...Or you may call me Zo!
 
@@ -22,9 +21,14 @@
 - 🚧 I’m looking to collaborate more on opensource projects with developers🙋🏾‍♂️👨🏾‍💻
 - 👀 I’m looking to get employed with a great company who's looking for a focused, hungry & intelligent young professional such as myself🙋🏾‍♂️❗️❕ 
 - 💬 Ask me about my struggle in merging my financial career with my tech career 💸✚💻 😖😓🥱
-- 📫 How to reach me📇: 📧lnginyard@gmail.com 💼https://wwwlinkedin.com/lorenzo-ginyard 🐥https://twitter.com/@4evarocboizoe
+- 📫 How to reach me📇: 📧lnginyard@gmail.com 💼
 - 🙋🏾‍♂️ Pronouns: HE/HIM/SIR🌈
 - 🚨 Fun fact: I love to draw/paint🎨 & design clothes for fun👨🏾‍🎨👖🥼, I'm musically inclined🎶🎼🎵 and love to 🎙sing🎤 & listen to music🎧👂🎶 I have a love for woodwind instruments❤️‍🔥 and have played 3️⃣ of the 6️⃣, which are the Flute🎶 the Clarnet & the Saxphone🎷🎵. 
+
+## <strong> Connect with me on LinkedIn: <strong>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
+
 
 #### I'm also a lifelong learner that loves to learn new things daily (whether big or small) and pass the knowledge on to those who inquires within or expresses interest📚 #EachOneTeachOne❗️
 
