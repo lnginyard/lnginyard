@@ -8,6 +8,10 @@
 
 - I'm also a lifelong learner that loves to learn new things daily (whether big or small) and pass the knowledge on to those who inquires within or expresses interest📚 #EachOneTeachOne❗️
 
+##### <strong> Connect with me on LinkedIn: <strong>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
+
 *******
 
 <div align="flex">
@@ -34,9 +38,6 @@
 - 🙋🏾‍♂️ Pronouns: HE/HIM/SIR🌈
 - 🚨 Fun fact: I love to draw/paint🎨 & design clothes for fun👨🏾‍🎨👖🥼, 
 ***********
-##### <strong> Connect with me on LinkedIn: <strong>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
 
 <break>
 
