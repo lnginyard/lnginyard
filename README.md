@@ -11,10 +11,10 @@
 *******
 
 <div align="flex">
-<img hieght="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=dark&Background=000000&Text=13DD02&Border=2800FF&Ring=FF300A&Title=FF0D18)](https://git.io/awesome-stats-card)"
+<img width="400m" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=dark&Background=000000&Text=13DD02&Border=2800FF&Ring=FF300A&Title=FF0D18)](https://git.io/awesome-stats-card)"
 
 <div align="right">
-<img width="400em" hieght="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnginyard&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/lnginyard/github-readme-stats)"
+<img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnginyard&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/lnginyard/github-readme-stats)"
 </div>
 </div>
 
