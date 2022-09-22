@@ -1,14 +1,23 @@
-# 👋🙋🏾‍♂️Hello World🌐🌎❗❗
+                                                     👋🙋🏾‍♂️Hello World🌐🌎❗❗
                                                                
 
 ### The name is Lorenzo...Or you may call me Zo!
+**************
+#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ My career origin is heavily placed in finance and accounting, ranging from positions such as Payroll & Accounting Specialist to Finacial Data Analyst and Sr Accoungting Assistant. I've worked in industries such as Defense, Education, Law, Health and Non-Profit. More recently, I've been breaking into Technology by becoming a Software Engineer; specializing in programming langages such as Pyhton, Javascript, HTML, and CSS. I've also learned how to design architecture diagrams to visualize cloud structures and system architecture, along with deploying high-availability web applications using cloud services from Big Tech compnaies such as, AWS, Azure and more recently Google Cloud & IBM/zOs mainframe system. All in all, I'm just a multifauceted person who loves to learn and create new things as much as I can.
 
-#### I'm a Accounting Specialist who've recently broken into tech after studying at SNHU, under there Software Engineering immersive. I code with programming languages JAvaScript, Python, HTML5, & CSS. I'm able to use libraries & frameworks such as React Native, Django Materialize and wwork with databasis like MySQL and PostgreSQL. I'm also able to design architectural systems that will house mainframe and cloud computing systems such as AWS, IBMz/Os and Zowe VS Code extension where I submit jobs containing a huge amounts of data using one of the first programming languaages COBOLUmmm...let's just say that I'm all of those things and more! But Simply put; I'm a  multi-fauceted, skilled &, talented professional with an extensive background in finance & accounting who has recently broke into technology as a Software Developer; with skills ranging from computer programming, application development, cloud computing, system administrator and even operating mainframe systems such as IBMz👨🏾‍💻. I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗
+
+- I'm also a lifelong learner that loves to learn new things daily (whether big or small) and pass the knowledge on to those who inquires within or expresses interest📚 #EachOneTeachOne❗️
 
 *******
 
-## 👨🏾‍💻🤓🚨Checkout My Github Stats⤵️🦾🔻
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=dark&Background=000000&Text=13DD02&Border=2800FF&Ring=FF300A&Title=FF0D18)](https://git.io/awesome-stats-card)
+<div align="flex">
+<img hieght="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/lnginyard?cardType=github&theme=dark&Background=000000&Text=13DD02&Border=2800FF&Ring=FF300A&Title=FF0D18)](https://git.io/awesome-stats-card)"
+
+<div align="right">
+<img width="400em" hieght="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnginyard&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/lnginyard/github-readme-stats)"
+</div>
+</div>
+
 *******
 
 <!--START_SECTION:waka-->
@@ -17,26 +26,19 @@
 ## ✨Below ⏬⤵️ you will find🕵🏾‍♂️🔎 key🔑 info & facts📑 about me:🙋🏾‍♂️✨
 
 - 👨🏾‍💻 I’m currently working on my professional portfolio📇👨🏾‍💻
-- 💡 I’m currently learning IBMz/OS Zowe Mainframe System, Studying for the MS Azure Cloud Fundamentals Exam & learning the Java programming language 👾🤖🎛
-- 🚧 I’m looking to collaborate more on opensource projects with developers🙋🏾‍♂️👨🏾‍💻
-- 👀 I’m looking to get employed with a great company who's looking for a focused, hungry & intelligent young professional such as myself🙋🏾‍♂️❗️❕ 
-- 💬 Ask me about my struggle in merging my financial career with my tech career 💸✚💻 😖😓🥱
+- 💡 I’m currently learning IBMz/OS Zowe Mainframe System, MS Azure & Google Cloud Fundamentals Exam & the Java programming language 👾🤖🎛
+- 🚧 I’m looking to collaborate more on the open source🙋🏾‍♂️👨🏾‍💻
+- 👀 I’m looking to be employed with a great company who's looking for a focused, hungry & intelligent young professional such as myself🙋🏾‍♂️❗️❕ 
+- 💬 Ask me about my struggle in merging my financial background into my tech career 💸✚💻 😖😓🥱
 - 📫 How to reach me📇: 📧lnginyard@gmail.com 💼
 - 🙋🏾‍♂️ Pronouns: HE/HIM/SIR🌈
-- 🚨 Fun fact: I love to draw/paint🎨 & design clothes for fun👨🏾‍🎨👖🥼, I'm musically inclined🎶🎼🎵 and love to 🎙sing🎤 & listen to music🎧👂🎶 I have a love for woodwind instruments❤️‍🔥 and have played 3️⃣ of the 6️⃣, which are the Flute🎶 the Clarnet & the Saxphone🎷🎵. 
-
-## <strong> Connect with me on LinkedIn: <strong>
+- 🚨 Fun fact: I love to draw/paint🎨 & design clothes for fun👨🏾‍🎨👖🥼, 
+***********
+##### <strong> Connect with me on LinkedIn: <strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
 
-
-#### I'm also a lifelong learner that loves to learn new things daily (whether big or small) and pass the knowledge on to those who inquires within or expresses interest📚 #EachOneTeachOne❗️
-
 <break>
-
-__________
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnginyard&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/lnginyard/github-readme-stats)
 
 ***************
 
