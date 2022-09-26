@@ -3,7 +3,7 @@
 
 ### The name is Lorenzo...Or you may call me Zo!
 **************
-#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ My career origin is heavily placed in finance and accounting, ranging from positions such as Payroll & Accounting Specialist to Finacial Data Analyst and Sr Accoungting Assistant. I've worked in industries such as Defense, Education, Law, Health and Non-Profit. More recently, I've been breaking into Technology by becoming a Software Engineer; specializing in programming langages such as Pyhton, Javascript, HTML, and CSS. I've also learned how to design architecture diagrams to visualize cloud structures and system architecture, along with deploying high-availability web applications using cloud services from Big Tech compnaies such as, AWS, Azure and more recently Google Cloud & IBM/zOs mainframe system. All in all, I'm just a multifauceted person who loves to learn and create new things as much as I can.
+#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ Breaking into Tech as a Software Engineer; specializing in programming langages such as Pyhton, Javascript, HTML, and CSS. I also have a love for cloud computing with AWS, Azure and more recently Google Cloud & IBM/zOs mainframe system. All in all, I'm just a multifauceted person who loves to learn and create new things as much as I can.
 
 
 - I'm also a lifelong learner that loves to learn new things daily (whether big or small) and pass the knowledge on to those who inquires within or expresses interest📚 #EachOneTeachOne❗️
@@ -12,6 +12,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
 
+
+ <form action="https://www.sandbox.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="67J753WA49KW2" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+  
+  
 *******
 
 <div align="flex">
