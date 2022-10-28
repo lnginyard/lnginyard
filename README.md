@@ -3,22 +3,17 @@
 
 ### The name is Lorenzo...Or you may call me Zo!
 **************
-#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ Breaking into Tech as a Software Engineer; specializing in programming langages such as Pyhton, Javascript, HTML, and CSS. I also have a love for cloud computing with AWS, Azure and more recently Google Cloud & IBM/zOs mainframe system. All in all, I'm just a multifauceted person who loves to learn and create new things as much as I can.
+#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ I'm an accountant, artist and now a jr developer who loves to learn things daily. 
 
-
-- I'm also a lifelong learner that loves to learn new things daily (whether big or small) and pass the knowledge on to those who inquires within or expresses interest📚 #EachOneTeachOne❗️
+- #Open4Work
+- #OpenSourceCollab
+- #Looking4Mentor
+- #Looking2Mentor
 
 ##### <strong> Connect with me on LinkedIn: <strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
 
-
- <form action="https://www.sandbox.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="67J753WA49KW2" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-  
   
 *******
 
@@ -46,7 +41,9 @@
 - 🙋🏾‍♂️ Pronouns: HE/HIM/SIR🌈
 - 🚨 Fun fact: I love to draw/paint🎨 & design clothes for fun👨🏾‍🎨👖🥼, 
 ***********
-
+  
+[![wakatime](https://wakatime.com/badge/user/4caeee3f-2c9d-47eb-905c-57af15c39a15/project/d982e9d9-a7f2-4f73-a80c-931a979a2389.svg)](https://wakatime.com/badge/user/4caeee3f-2c9d-47eb-905c-57af15c39a15/project/d982e9d9-a7f2-4f73-a80c-931a979a2389)
+  
 <break>
 
 ***************
@@ -108,5 +105,8 @@
 </div>
 
 ********
+  
 
-[![](https://visitcount.itsvg.in/api?id=lnginyard&label=Amount%20of%20peeps%20checkin'%20for%20me!&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+  
+[![](https://visitcount.itsvg.in/api?id=lnginyard&label=Amount%20of%20peeps%20checkin'%20for%20me!&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+ 
