@@ -1,16 +1,15 @@
                                                      👋🙋🏾‍♂️Hello World🌐🌎❗❗
                                                                
-
-### The name is Lorenzo...Or you may call me Zo!
+### 👋🏾The name is Lorenzo...Or you may call me Zo!👨🏾‍💻
 **************
-#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ I'm an accountant, artist and now a jr developer who loves to learn things daily. 
+#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ I'm an accountant, artist and now Swho loves to learn things daily. 
 
-- #Open4Work
-- #OpenSourceCollab
-- #Looking4Mentor
-- #Looking2Mentor
+- #Open4Work💼
+- #OpenSourceCollab🫱🏾‍🫲🏼
+- #Looking4Mentor👨🏾‍🏫
+- #Looking2Mentor👨‍🎓
 
-##### <strong> Connect with me on LinkedIn: <strong>
+##### <strong> 🖇Connect with me on LinkedIn:🔗 <strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
 
@@ -34,12 +33,12 @@
 
 - 👨🏾‍💻 I’m currently working on my professional portfolio📇👨🏾‍💻
 - 💡 I’m currently learning IBMz/OS Zowe Mainframe System, MS Azure & Google Cloud Fundamentals Exam & the Java programming language 👾🤖🎛
-- 🚧 I’m looking to collaborate more on the open source🙋🏾‍♂️👨🏾‍💻
-- 👀 I’m looking to be employed with a great company who's looking for a focused, hungry & intelligent young professional such as myself🙋🏾‍♂️❗️❕ 
-- 💬 Ask me about my struggle in merging my financial background into my tech career 💸✚💻 😖😓🥱
+- 🚧 I’m looking to collaborate more with developers on open source projects and develop and deploy some of my own🛠🙋🏾‍♂️🪚👨🏾‍💻
+- 👀 I’m looking to become employed by a company that shows diversity, has an awesome mission and who's looking for an intelligent & hard-working professional such as myself🙋🏾‍♂️❗️❕ 
+- 💬 Ask me about my struggle in switching from my former career as an accountant into a tech career 💸✚💻 😖😓🥱
 - 📫 How to reach me📇: 📧lnginyard@gmail.com 💼
-- 🙋🏾‍♂️ Pronouns: HE/HIM/SIR🌈
-- 🚨 Fun fact: I love to draw/paint🎨 & design clothes for fun👨🏾‍🎨👖🥼, 
+- 🙋🏾‍♂️ Pronouns: HE/HIM/SIR👨🏾‍💼🌈
+- 🚨 Fun fact: I'm currently learning how to IBM's mainframe system; 🖥Zowe(z/OS)🎛...lol, (coincidence right? @ my name)🤣😜
 ***********
   
 [![wakatime](https://wakatime.com/badge/user/4caeee3f-2c9d-47eb-905c-57af15c39a15/project/d982e9d9-a7f2-4f73-a80c-931a979a2389.svg)](https://wakatime.com/badge/user/4caeee3f-2c9d-47eb-905c-57af15c39a15/project/d982e9d9-a7f2-4f73-a80c-931a979a2389)
@@ -110,5 +109,5 @@
 <!--ENDS_HERE_QUOTE_README-->
 
   
-[![](https://visitcount.itsvg.in/api?id=lnginyard&label=Amount%20of%20peeps%20checkin'%20for%20me!&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lnginyard&label=🔎👁Amount%20of🕵🏾‍🕵️%20peepers👀🔍%20&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
  
