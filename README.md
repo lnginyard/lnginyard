@@ -2,7 +2,7 @@
                                                                
 ### 👋🏾The name is Lorenzo...Or you may call me Zo!👨🏾‍💻
 **************
-#### I was born, raised and still reside in Washington, D.C., The Nation's Capital🏛🇺🇸❗ I'm an accountant, artist and now Swho loves to learn things daily. 
+#### I'm a developer & a designer from Washington, D.C., (The Nation's Capital🏛🇺🇸) who seeks to learn new things daily to build and pass the knowledge onward. 
 
 - #Open4Work💼
 - #OpenSourceCollab🫱🏾‍🫲🏼
