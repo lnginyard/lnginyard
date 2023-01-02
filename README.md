@@ -112,4 +112,4 @@
 
   
 [![](https://visitcount.itsvg.in/api?id=lnginyard&label=🔎👁Amount%20of🕵🏾‍🕵️%20peepers👀🔍%20&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lnginyard.visitor-badge&left_color=red&right_color=green) 
+ 
