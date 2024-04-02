@@ -1,8 +1,8 @@
                                                      👋🙋🏾‍♂️Hello World🌐🌎❗❗
                                                                
-### 👋🏾The name is Lorenzo...Or you may call me Zo!👨🏾‍💻
+### 👋🏾The name is Lorenzo👨🏾‍💻
 **************
-#### I'm a developer & a designer from Washington, D.C., (The Nation's Capital🏛🇺🇸) who seeks to learn new things daily to build and pass the knowledge onward. 
+#### I'm a certified Software Engineer studying Computer Science at SNHU. I’m from Washington, D.C.🏛🇺🇸 and I love to learn new things daily so I can be well-versed and execute my skills and knowledge but also pass it along to the next. 
 
 - #Open4Work💼
 - #OpenSourceCollab🫱🏾‍🫲🏼
