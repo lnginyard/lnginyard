@@ -2,7 +2,7 @@
                                                                
 ### 👋🏾The name is Lorenzo...Or you may call me Zo!👨🏾‍💻
 **************
-#### I'm a developer & a designer from Washington, D.C., (The Nation's Capital🏛🇺🇸) who seeks to learn new things daily to build and pass the knowledge onward. 
+#### I'm a certified Software Engineer from Washington, D.C.🏛🇺🇸 , currently studyung computer science at SNhU. I love to learn new things all the time and I hope to build beautiful apps and web interfaces for beautiful people and their businesses. 
 
 - #Open4Work💼
 - #OpenSourceCollab🫱🏾‍🫲🏼
