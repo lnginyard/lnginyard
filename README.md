@@ -1,13 +1,5 @@
                                                      👋🙋🏾‍♂️Hello World🌐🌎❗❗
-                                                               
-### 👋🏾The name is Lorenzo...Or you may call me Zo!👨🏾‍💻
-**************
-#### I'm a certified Software Engineer from Washington, D.C.🏛🇺🇸 , currently studyung computer science at SNhU. I love to learn new things all the time and I hope to build beautiful apps and web interfaces for beautiful people and their businesses. 
-
-- #Open4Work💼
-- #OpenSourceCollab🫱🏾‍🫲🏼
-- #Looking4Mentor👨🏾‍🏫
-- #Looking2Mentor👨‍🎓
+                                  
 
 ##### <strong> 🖇Connect with me on LinkedIn:🔗 <strong>
 
@@ -30,17 +22,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## ✨Below ⏬⤵️ you will find🕵🏾‍♂️🔎 key🔑 info & facts📑 about me:🙋🏾‍♂️✨
-
-- 👨🏾‍💻 I’m currently working on my professional portfolio📇👨🏾‍💻
-- 💡 I’m currently learning IBMz/OS Zowe Mainframe System, MS Azure & Google Cloud Fundamentals Exam & the Java programming language 👾🤖🎛
-- 🚧 I’m looking to collaborate more with developers on open source projects and develop and deploy some of my own🛠🙋🏾‍♂️🪚👨🏾‍💻
-- 👀 I’m looking to become employed by a company that shows diversity, has an awesome mission and who's looking for an intelligent & hard-working professional such as myself🙋🏾‍♂️❗️❕ 
-- 💬 Ask me about my struggle in switching from my former career as an accountant into a tech career 💸✚💻 😖😓🥱
-- 📫 How to reach me📇: 📧lnginyard@gmail.com 💼
-- 🙋🏾‍♂️ Pronouns: HE/HIM/SIR👨🏾‍💼🌈
-- 🚨 Fun fact: I'm currently learning how to IBM's mainframe system; 🖥Zowe(z/OS)🎛...lol, (coincidence right? @ my name)🤣😜
+ 
 ***********
   
 [![wakatime](https://wakatime.com/badge/user/4caeee3f-2c9d-47eb-905c-57af15c39a15/project/d982e9d9-a7f2-4f73-a80c-931a979a2389.svg)](https://wakatime.com/badge/user/4caeee3f-2c9d-47eb-905c-57af15c39a15/project/d982e9d9-a7f2-4f73-a80c-931a979a2389)
