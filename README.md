@@ -1,6 +1,9 @@
-                                                     👋🙋🏾‍♂️Hello World🌐🌎❗❗
-                                  
 
+                                                     
+                                                    
+                                  
+ 👋🙋🏾‍♂️Hello World🌐🌎❗❗
+ 
 ##### <strong> 🖇Connect with me on LinkedIn:🔗 <strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
