@@ -1,11 +1,65 @@
-                                                     👋🙋🏾‍♂️Hello World🌐🌎❗❗
-                                  
+# 👋 👋🙋🏾‍♂️Hello World🌐🌎❗❗
+                                  Hello, I'm Lorenzo Ginyard!
+
+🌟 **Student | Developer | Artist**  
+📍 Based in Washington, D.C.  
+🔗 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
+
+---
+
+## 🚀 About Me
+
+I'm a passionate developer excited about coding and creating impactful solutions. With a background in various programming languages and cloud technologies, I thrive on collaboration and am always eager to learn from others while sharing my knowledge.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript, Python, CSS
+- **Frameworks:** Materialize CSS, various libraries for web development
+- **Databases:** [Add any relevant databases you work with]
+- **Cloud Computing:** [Mention any specific cloud platforms you're familiar with]
+- **Tools:** Visual Studio Code, GitHub Actions, [Any other tools you use]
+
+---
+
+## 🌱 Currently Working On
+
+- **[materialize-snippets-vscode](https://github.com/lnginyard/materialize-snippets-vscode)**: A set of Materialize CSS snippets for Visual Studio Code.
+- **[Flip-A-Coin](https://github.com/lnginyard/Flip-A-Coin)**: A simple game where users can flip a coin and see who wins!
+- **[Rock-Paper-Scissors](https://github.com/lnginyard/Rock-Paper-Scissors)**: Classic game implemented in Python.
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always looking for opportunities to collaborate on exciting projects! Whether you need a mentor, want to contribute to a project, or simply want to brainstorm ideas, feel free to reach out.
+
+---
+
+## ⭐ Achievements
+
+- 59 Repositories
+- 92 Stars on projects
+- 38 Followers
+
+---
+
+## 📫 Get in Touch
+
+Feel free to connect with me on LinkedIn or drop me a message here on GitHub. Let’s build something amazing together!
+
+---
+
+Looking forward to connecting!
+
+--- 
+
+Feel free to modify any sections to better fit your style and projects!                                                     
 
 ##### <strong> 🖇Connect with me on LinkedIn:🔗 <strong>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
 
-  
 *******
 
 <div align="flex">
