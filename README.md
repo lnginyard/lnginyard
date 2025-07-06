@@ -3,7 +3,7 @@
 
 🌟 **Student | Developer | Artist**  
 📍 Based in Washington, D.C.  
-🔗 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://wwwlinkedin.com/lorenzo-ginyard/)
+🔗 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/lorenzo-ginyard/)
 
 ---
 
@@ -17,9 +17,9 @@ I'm a passionate developer excited about coding and creating impactful solutions
 
 - **Languages:** JavaScript, Python, CSS
 - **Frameworks:** Materialize CSS, various libraries for web development
-- **Databases:** [Add any relevant databases you work with]
-- **Cloud Computing:** [Mention any specific cloud platforms you're familiar with]
-- **Tools:** Visual Studio Code, GitHub Actions, [Any other tools you use]
+- **Databases:** PostgreSQL, SQL, MongoDB, Oracle, & Redis
+- **Cloud Computing:** AWS, Azure, G-Cloud, & IBM Cloud
+- **Tools:** Visual Studio Code, GitHub Actions, Eclipse & IBM Mainframe 
 
 ---
 
